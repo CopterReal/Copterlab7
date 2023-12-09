@@ -25,5 +25,5 @@ int main(){
 	cout << before('a') << "\n";
 	cout << before('0') << "\n";
 	cout << before('c') << "\n";
-	return 0;
+	return 0; 
 }
